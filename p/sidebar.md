@@ -1,8 +1,8 @@
 ![Meizhuo logo](../img/favicon.ico)
 
-# [silentor](.)
+# [GHkIT](.)
 
-> Be a silentor, focus on writting your words down
+> Blog
 
 - [项目](projects/index.md)
 - [文档](docs/readme.md)
